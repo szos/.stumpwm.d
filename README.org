@@ -1,0 +1,4 @@
+#+TITLE: StumpWM init
+
+* notifications
+  see scripts repo for the notification script. 
